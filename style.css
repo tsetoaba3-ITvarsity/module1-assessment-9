@@ -1,0 +1,21 @@
+th{
+    color: black;
+    font-size: 18px;
+    font-family: monospace;
+    text-align: center;
+    background-color: mediumvioletred;
+}
+
+
+table{
+    font-family: fantasy;
+    border-collapse: collapse;
+    border-width: 2px;
+    border-bottom: #FA58F4;
+    border-color: blue;
+}
+
+p{
+    font-weight: 400;
+    text-decoration: line-through
+}
